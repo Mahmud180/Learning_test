@@ -4,5 +4,7 @@ var carcolor3 = "yellow";
 var num1 = 5;
 var num2 = 7;
 
-console.log(num1+num2);
+var bol = true;
+
+console.log(bol+num1);
 
