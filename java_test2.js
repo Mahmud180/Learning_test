@@ -1,6 +1,7 @@
 var carcolor1 = 'blue';
 var try1 = carcolor1.length;
 
+console.log(try1);
 
 var str2 = "I really love video games, its great";
 var try2 = str2.indexOf("games");
